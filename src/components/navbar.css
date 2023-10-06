@@ -1,0 +1,17 @@
+/* navbar.css */
+.nav {
+    display: flex; 
+    align-items: center; /* Center items vertically */
+    background-color:#000921;
+    color:white;
+    height: 49px;
+    justify-content: flex-end;
+    border-color: rgb(47, 247, 244);
+    border-width: 10px;
+    
+  }
+  
+  .nav > div {
+    margin-right: 20px; /* Add margin between "know More" items */
+  }
+  
